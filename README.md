@@ -39,11 +39,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshua-thomas&theme=radical)
-
----
-
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joshua-thomas)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/joshua-thomas)  
