@@ -39,12 +39,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-thomas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-thomas&layout=compact&theme=radical)
-
----
-
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joshua-thomas)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/joshua-thomas)  
