@@ -20,7 +20,7 @@
 ---
 
 ## 🌱 **What I'm Learning**
-🔹 **Docker & Kubernetes** – Exploring containerization and deployment  
+🔹 **Docker & Kubernetes(soon)** – Exploring containerization and deployment  
 🔹 **Expanding AI Knowledge** – Investigating real-world use cases beyond ML models  
 
 ---
