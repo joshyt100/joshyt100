@@ -41,7 +41,7 @@
 
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsht/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/joshua-thomas)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/joshyt100)  
 
 🚀 *Let's build something awesome together!* 🚀
 
