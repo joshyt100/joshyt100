@@ -14,8 +14,7 @@
 
 ## 💻 **What I'm Working On**
 🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, PostgreSQL**  
-🔹 **Cover Letter Generator** – A Django-based tool for generating tailored cover letters  
-🔹 **Member/Project Management System** – A React + FastAPI dashboard with Firebase integration  
+🔹 **Cover Letter Generator** – A Django-based tool for generating tailored cover letters   
 
 ---
 
