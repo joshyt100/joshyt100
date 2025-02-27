@@ -40,7 +40,6 @@
 )
 
 ---
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshyt100)](https://github.com/joshyt100/github-readme-stats)
 
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsht/)  
