@@ -6,7 +6,7 @@
 📍 **East Lansing, MI**  
 
 💡 **Passionate about:**  
-- Full-stack development with **React, FastAPI, and Firebase**  
+- Full-stack development with **React, Django, and Express.js and more**  
 - Exploring **AI and its applications** in software development  
 - Building scalable and efficient backend systems  
 
