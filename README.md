@@ -14,7 +14,7 @@
 
 ## 💻 **What I'm Working On**
 🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, PostgreSQL**  
-🔹 **Cover Letter Generator** – A Django-based tool for generating tailored cover letters   
+🔹 **HireMind** – A Django + React based tool for managing Job Applications with analytics and other tools
 
 ---
 
