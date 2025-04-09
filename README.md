@@ -13,7 +13,7 @@
 ---
 
 ## 💻 **What I'm Working On**
-🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, PostgreSQL**  
+🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, Django, PostgreSQL**  
 🔹 **HireMind** – A Django + React based tool for managing Job Applications with analytics and other tools
 
 ---
