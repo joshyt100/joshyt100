@@ -1,30 +1,41 @@
-# 👋 Hi, I'm Joshua Thomas!
+# 👋 Hi, I'm Joshua Thomas!  
+![wave](https://user-images.githubusercontent.com/99184393/230743675-952d5b79-750c-4f6b-9ff6-61d1d84c7d74.gif)
 
 ## 🚀 Software Engineer | Full-Stack Developer | AI Explorer  
 
 🎓 **Michigan State University** | B.S. in **Computer Science** (*Expected 2026*)  
 📍 **East Lansing, MI**  
 
-💡 **Passionate about:**  
-- Full-stack development with **React, Django, and Express.js and more**  
-- Exploring **AI and its applications** in software development  
-- Building scalable and efficient backend systems  
+---
+
+### 💡 Passionate About  
+- ⚛️ Full-stack development with **React, Django, Express.js**, and more  
+- 🧠 Exploring **AI and its real-world applications**  
+- 🛠 Building **scalable & efficient** backend systems  
 
 ---
 
-## 💻 **What I'm Working On**
-🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, Django, PostgreSQL**  
-🔹 **HireMind** – A Django + React based tool for managing Job Applications with analytics and other tools
+## 💻 What I'm Working On
+
+🔹 **SideQuest**  
+*A location-based questing app*  
+`React Native · TypeScript · Django · PostgreSQL`
+
+🔹 **HireMind**  
+*A powerful job application manager with analytics*  
+`Django · React · PostgreSQL · AWS`
 
 ---
 
-## 🌱 **What I'm Learning**
-🔹 **Docker & Kubernetes (soon)** – Exploring containerization and deployment  
-🔹 **Expanding AI Knowledge** – Investigating real-world use cases beyond ML models  
+## 🌱 What I'm Learning
+
+🎯 **Docker & Kubernetes (soon)**  
+📈 **AI Integrations** — Going beyond just ML models
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 Tech Stack  
+<!-- Using shields.io badges with a slight animation effect by order/spacing -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,9 +55,20 @@
 
 ---
 
-## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsht/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/joshyt100)  
+## 📫 Let's Connect!
 
-🚀 *Let's build something awesome together!* 🚀
+<p align="left">
+  <a href="https://www.linkedin.com/in/jsht/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/joshyt100">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Let's+build+something+awesome+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
