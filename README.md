@@ -14,8 +14,8 @@
 
 ## 💻 **What I'm Working On**
 🔹 **SideQuest** – A location-based questing app with **React Native, TypeScript, Django, PostgreSQL**  
-🔹 **Hirelio** – A Django + React based tool for managing Job Applications with analytics and other tools
-🔹 **ShipFolio** – A sleek Next.js-powered platform to showcase your GitHub contributions and open source work
+🔹 **Hirelio** – A Django + React based tool for managing job applications with analytics  
+🔹 **ShipFolio** – A sleek Next.js-powered platform to showcase GitHub contributions and open source work
 
 ---
 
