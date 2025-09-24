@@ -25,8 +25,6 @@
 
 ## 🛠 **Tech Stack**
 
-## 🛠 **Tech Stack**
-
 <p align="center">
   <!-- Row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" style="margin:8px;" />
