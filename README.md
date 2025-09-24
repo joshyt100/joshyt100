@@ -44,9 +44,3 @@
 
 ---
 
-## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsht/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/joshyt100)  
-
-🚀 *Let's build something awesome together!* 🚀
-
