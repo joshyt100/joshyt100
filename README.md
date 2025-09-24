@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joshua Thomas!
 
-🎓 DevOps Intern @ ARA | **Michigan State University** | B.S. in **Computer Science** (*Expected 2026*)  
-📍 **East Lansing, MI**  
+🎓 DevOps Intern @ ARA | Michigan State University | B.S. in Computer Science** (*Expected 2026*)  
+📍 East Lansing, MI  
 
 💡 **Passionate about:**  
 - Full-stack development with **React, Django, and Express.js and more**  
