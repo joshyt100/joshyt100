@@ -57,5 +57,18 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <!-- Overall stats (includes private + all commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joshyt100&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyt100&layout=compact&count_private=true&theme=tokyonight" />
+  
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshyt100&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 
