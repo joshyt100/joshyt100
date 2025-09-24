@@ -11,8 +11,8 @@
 ---
 
 ## 💻 What I'm Working On  
-🔹 **Hirelio** – A Django + React based tool for managing job applications with analytics and other tools  
-🔹 **ShipFolio** – A sleek Next.js-powered platform to showcase your GitHub contributions and open source work
+- **Hirelio** – A Django + React based tool for managing job applications with analytics and other tools  
+- **ShipFolio** – A sleek Next.js-powered platform to showcase your GitHub contributions and open source work
 
 ---
 
