@@ -52,3 +52,16 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joshyt100&show_icons=true&theme=default" />
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyt100&layout=compact&theme=default" />
+  
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshyt100&theme=default" />
+</p>
+
+
