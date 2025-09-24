@@ -17,8 +17,9 @@
 ---
 
 ## 🌱 **What I'm Learning**
-🔹 **Terraform & AWS** – Explorering Infrastructure as code, and learning core AWS Services /
-🔹 **Expanding AI Knowledge** – Investigating real-world use cases beyond ML models  
+- **Terraform & AWS** – Exploring Infrastructure as Code, and learning core AWS services
+- **Expanding AI Knowledge** – Investigating real-world use cases beyond ML models
+
 
 ---
 
