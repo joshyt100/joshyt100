@@ -25,6 +25,8 @@
 
 ## 🛠 **Tech Stack**
 
+## 🛠 **Tech Stack**
+
 <p align="center">
   <!-- Row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" style="margin:8px;" />
@@ -47,7 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" style="margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="42" alt="Docker" style="margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes" style="margin:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="42" alt="Kafka" style="margin:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" alt="Ansible" style="margin:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="42" alt="Helm" style="margin:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="42" alt="Jenkins" style="margin:8px;" />
 </p>
+
 
 
 ---
