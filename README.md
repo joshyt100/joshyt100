@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joshua Thomas!
+# 👋 Hi, I'm Josh Thomas!
 
 🎓 DevOps Intern @ ARA | Michigan State University | B.S. in Computer Science (*Expected 2026*)  
 📍 East Lansing, MI  
