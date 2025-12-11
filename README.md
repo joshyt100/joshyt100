@@ -7,7 +7,7 @@
 
 DevOps Intern @ ARA • CS @ Michigan State University (’26)  
 I build full-stack applications, scalable backend systems, and the infrastructure that keeps them running smoothly <br>
-Currently exploring Golang, AWS fundamentals, and modern infrastructure patterns  
+Currently exploring Golang, Distributed Systems Algorithms, AWS fundamentals, and modern infrastructure patterns  
 Passionate about AI-driven software, distributed systems, and shipping real projects
 
 
